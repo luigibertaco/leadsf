@@ -1,6 +1,6 @@
 # Leadsf
 
-_A ruby gem for work with the *Salesforce Leads* using [Salesforce REST api](http://www.salesforce.com/us/developer/docs/api_rest/index.htm)._
+_A ruby gem for work with the **Salesforce Leads** using [Salesforce REST api](http://www.salesforce.com/us/developer/docs/api_rest/index.htm). with [Force Gem](https://github.com/heroku/force.rb)_
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-Leadsf is designed to work with a basic structure of Salesforce Leads using [Force](https://github.com/heroku/force.rb) 
+Leadsf is designed to work with a basic structure of **Salesforce Leads**
  
 ### Initialization
 
