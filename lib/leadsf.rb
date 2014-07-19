@@ -21,7 +21,7 @@ module Leadsf
 		end
 	end
 
-	class Leadsf
+	class Leadsf 
 		def initialize(username, password, security_token, client_id, client_secret)
 			@username = username
 			@password = password
