@@ -19,10 +19,15 @@ Or install it yourself as:
 ## Usage
 
 Leadsf is designed to work with a basic structure of **Salesforce Leads**
+```
+{Id, FirstName, LastName, Email, Company, Title, Phone, Website}
+```
+
  
 ### Initialization
 
 ```ruby
+# Use your Salesforce Data
 leadsf = Leadsf.set(username, password, security_token, client_id, client_secret)
 ```
 
