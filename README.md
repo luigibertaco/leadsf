@@ -1,6 +1,6 @@
 # Leadsf
 
-_A ruby gem for work with the [b]Salesforce Leads[/b] using [Salesforce REST api](http://www.salesforce.com/us/developer/docs/api_rest/index.htm)._
+_A ruby gem for work with the *Salesforce Leads* using [Salesforce REST api](http://www.salesforce.com/us/developer/docs/api_rest/index.htm)._
 
 ## Installation
 
