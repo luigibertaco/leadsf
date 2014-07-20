@@ -52,7 +52,7 @@ module Leadsf
 		end
 
 		def save(lead)
-			if lead.Id.nil?  
+			if lead.Id.nil? or lead.Id.empty?
 				client.create!('Lead', FirstName: lead.FirstName, 
 	       							LastName: lead.LastName, 
 	       							Email: lead.Email, 
